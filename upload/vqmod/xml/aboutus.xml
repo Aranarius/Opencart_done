@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<id>d_social_login</id>
+	<version>2.x</version>
+	<vqmver required="true">2.5.0</vqmver>
+	<author></author>
+	
+	<file name="catalog/language/english/information/contact.php">
+		<operation error="skip" info="added to deleteCustomer customer_authentication delete">
+			<search position="replace"><![CDATA[$_['heading_title']  = 'Contact Us';]]></search>
+			<add><![CDATA[$_['heading_title']  = 'Contact Us please';]]></add>
+		</operation>
+	</file>
+
+</modification>

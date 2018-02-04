@@ -1,0 +1,418 @@
+2018-02-04 12:58:26 - PHP Notice:  Error: Could not load model /var/www/dev3/public_html/admin/model/sale/customer_group.php! in /var/www/dev3/public_html/vqmod/vqcache/vq2-system_engine_loader.php on line 63
+2018-02-04 12:58:33 - PHP Notice:  Error: Could not load model /var/www/dev3/public_html/admin/model/sale/customer_group.php! in /var/www/dev3/public_html/vqmod/vqcache/vq2-system_engine_loader.php on line 63
+2018-02-04 12:58:54 - PHP Notice:  Error: Could not load model /var/www/dev3/public_html/admin/model/sale/customer_group.php! in /var/www/dev3/public_html/vqmod/vqcache/vq2-system_engine_loader.php on line 63
+2018-02-04 13:04:00 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 13:04:01 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 13:04:04 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 13:05:06 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 13:08:21 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 13:08:31 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 13:09:01 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 13:09:02 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 13:30:00 - PHP Notice:  Undefined variable: d_social_login in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 13:50:56 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 185
+2018-02-04 14:07:50 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 185
+2018-02-04 14:08:48 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 185
+2018-02-04 14:14:52 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 185
+2018-02-04 14:23:14 - PHP Notice:  Undefined variable: text_content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 115
+2018-02-04 14:23:14 - PHP Notice:  Undefined variable: text_content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 115
+2018-02-04 14:23:14 - PHP Notice:  Undefined variable: text_content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 115
+2018-02-04 14:23:14 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 190
+2018-02-04 14:26:23 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 190
+2018-02-04 14:42:03 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 186
+2018-02-04 14:43:30 - PHP Notice:  Undefined variable: text_content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 115
+2018-02-04 14:43:30 - PHP Notice:  Undefined variable: text_content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 115
+2018-02-04 14:43:30 - PHP Notice:  Undefined variable: text_content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 115
+2018-02-04 14:43:30 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 190
+2018-02-04 14:44:47 - PHP Notice:  Undefined variable: text_content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 110
+2018-02-04 14:44:47 - PHP Notice:  Undefined variable: text_content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 110
+2018-02-04 14:44:47 - PHP Notice:  Undefined variable: text_content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 110
+2018-02-04 14:44:47 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 190
+2018-02-04 14:55:24 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 190
+2018-02-04 14:55:38 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_view_template_design_layout_form.tpl on line 190
+2018-02-04 15:02:47 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:08:29 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:16:47 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:16:48 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:19:19 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:19:21 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:20:47 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:20:48 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:20:48 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:20:49 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:20:49 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:21:35 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:23:52 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:23:53 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:23:54 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:23:55 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:23:55 - PHP Notice:  Undefined variable: content_header in /var/www/dev3/public_html/vqmod/vqcache/vq2-catalog_view_theme_default_template_common_header.tpl on line 44
+2018-02-04 15:30:46 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:31:02 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:31:03 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:31:22 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:31:44 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:32:32 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:34:12 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:34:13 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:46:34 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 15:49:22 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 15:49:47 - Missing provider application credentials.
+
+HybridAuth Error: Your application key and secret are required in order to connect to Twitter.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Twitter.php(18): Hybrid_Provider_Model_OAuth1->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Twitter->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Twitter', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Twitter', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Twitter', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Twitter')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:01:39 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 16:02:00 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:07:24 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:07:28 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:12:33 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 16:12:36 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:15:00 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 16:15:21 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:16:08 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:17:17 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:18:38 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:18:44 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:20:29 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:21:03 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 16:21:09 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:21:16 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 16:21:21 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:27:08 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:27:17 - Missing provider application credentials.
+
+HybridAuth Error: Your application key and secret are required in order to connect to Twitter.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Twitter.php(18): Hybrid_Provider_Model_OAuth1->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Twitter->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Twitter', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Twitter', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Twitter', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Twitter')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:27:18 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Facebook.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Facebook->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Facebook', Array, Array)
+#2 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Facebook', Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Facebook', NULL)
+#4 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Facebook')
+#5 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#6 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#7 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#9 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#10 {main}
+2018-02-04 16:27:22 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Facebook.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Facebook->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Facebook', Array, Array)
+#2 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Facebook', Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Facebook', NULL)
+#4 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Facebook')
+#5 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#6 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#7 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#9 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#10 {main}
+2018-02-04 16:27:24 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Google.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Providers/Google.php(28): Hybrid_Provider_Model_OAuth2->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Google->initialize()
+#2 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Google', Array, Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Google', Array)
+#4 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Google', NULL)
+#5 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Google')
+#6 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#7 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#8 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#9 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#10 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#11 {main}
+2018-02-04 16:27:38 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 16:27:39 - PHP Notice:  Undefined index: token in /var/www/dev3/public_html/vqmod/vqcache/vq2-admin_controller_common_header.php on line 5
+2018-02-04 16:41:16 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Facebook.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Facebook->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Facebook', Array, Array)
+#2 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Facebook', Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Facebook', NULL)
+#4 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Facebook')
+#5 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#6 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#7 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#9 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#10 {main}
+2018-02-04 16:41:17 - Missing provider application credentials.
+
+HybridAuth Error: Your application id and secret are required in order to connect to Facebook.
+
+Trace:
+ #0 /var/www/dev3/public_html/system/library/Hybrid/Provider_Model.php(90): Hybrid_Providers_Facebook->initialize()
+#1 /var/www/dev3/public_html/system/library/Hybrid/Provider_Adapter.php(101): Hybrid_Provider_Model->__construct('Facebook', Array, Array)
+#2 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(277): Hybrid_Provider_Adapter->factory('Facebook', Array)
+#3 /var/www/dev3/public_html/system/library/Hybrid/Auth.php(229): Hybrid_Auth::setup('Facebook', NULL)
+#4 /var/www/dev3/public_html/catalog/controller/module/d_social_login.php(103): Hybrid_Auth::authenticate('Facebook')
+#5 [internal function]: ControllerModuleDSocialLogin->login(Array)
+#6 /var/www/dev3/public_html/vqmod/vqcache/vq2-system_storage_modification_system_engine_action.php(46): call_user_func(Array, Array)
+#7 /var/www/dev3/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /var/www/dev3/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#9 /var/www/dev3/public_html/index.php(275): Front->dispatch(Object(Action), Object(Action))
+#10 {main}

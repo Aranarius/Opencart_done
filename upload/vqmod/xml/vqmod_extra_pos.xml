@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<id>Extra position</id>
+	<version>1.0</version>
+	<vqmver required="true">2.5.0</vqmver>
+	<author>Lesha</author>
+	
+	<file name="admin/view/template/design/layout_form.tpl">
+		<operation error="skip" info="">
+			<search position="before"><![CDATA[<?php if ($layout_module['position'] == 'content_bottom') { ?>]]></search>
+			<add><![CDATA[<?php if ($layout_module['position'] == 'content_header') { ?>
+            <option value="content_header" selected="selected">content_header</option>
+            <?php } else { ?>
+            <option value="content_header">content_header</option>
+            <?php } ?>]]></add>
+		</operation>
+		
+		<operation error="skip" info="">
+			<search position="after"><![CDATA[html += '    <option value="content_bottom"><?php echo $text_content_bottom; ?></option>';]]></search>
+			<add><![CDATA[html += '    <option value="content_header">content_header</option>';]]></add>
+		</operation>
+		
+	</file>
+
+	<file name="catalog/controller/common/header.php">
+		
+		<operation error="skip" info="">
+			<search position="after"><![CDATA[$data['base'] = $server;]]></search>
+			<add><![CDATA[$data['content_header'] = $this->load->controller('common/content_header');]]></add>
+		</operation>
+		
+	</file>
+
+	<file name="catalog/view/theme/default/template/common/header.tpl">
+		
+		<operation error="skip" info="">
+			<search position="after"><![CDATA[<?php echo $currency; ?>]]></search>
+			<add><![CDATA[<?php echo $content_header; ?>]]></add>
+		</operation>
+		
+	</file>
+
+</modification>
